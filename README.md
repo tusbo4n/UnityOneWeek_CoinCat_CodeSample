@@ -51,6 +51,7 @@ UnityOneWeek_CoinCat_CodeSample
 │  └─ TitleSoundTrigger.cs
 └─ README.md
 ```
+
 ## 補足
 
 本リポジトリは、採用選考においてコードの書き方や実装方針を確認していただくことを目的として、本作品で使用した自作コードの一部を抜粋して公開しています。
