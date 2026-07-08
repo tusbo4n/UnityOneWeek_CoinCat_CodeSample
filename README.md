@@ -1,2 +1,25 @@
-# UnityOneWeek_CoinCat_CodeSample
-Unity1Week参加作品から抜粋したUnity / C#コードサンプル
+# Unity1Week Code Samples
+
+Unity / C#で制作したUnity1Week参加作品のコードサンプルです。
+
+本リポジトリは、採用選考でコードの書き方や実装方針を確認していただくため、自作コードの一部を抜粋して公開しています。
+
+素材、音楽、画像、外部アセット、`.meta`ファイル等は、ライセンス上の理由や閲覧性を考慮して含めていません。そのため、このリポジトリ単体ではUnityプロジェクトとして動作しません。
+
+実際の作品は、各作品のREADMEに記載したリンクから確認できます。
+
+## 掲載作品
+
+### つながれ!コインキャット!
+
+Unity1Week参加作品です。
+
+作品URL: https://unityroom.com/games/coincatconnect
+
+掲載内容:
+- ゲーム進行処理
+- コイン・アバター制御
+- UI制御
+- タイトル画面処理
+- 自作拡張メソッド
+- Unity Editor拡張
