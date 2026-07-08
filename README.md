@@ -50,3 +50,11 @@ UnityOneWeek_CoinCat_CodeSample
 │  ├─ TitleSceneController.cs
 │  └─ TitleSoundTrigger.cs
 └─ README.md
+
+## 補足
+
+本リポジトリは、採用選考においてコードの書き方や実装方針を確認していただくことを目的として、本作品で使用した自作コードの一部を抜粋して公開しています。
+
+素材、音楽、画像、外部アセット、`.meta`ファイル等は含めていないため、このリポジトリ単体ではUnityプロジェクトとして動作しません。
+
+実際のゲームは、上記のunityroomリンクから確認できます。
